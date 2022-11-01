@@ -1,0 +1,6 @@
+<svg id="chart" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="4" y="4.5" width="16" height="16" rx="4" stroke="#6C86AD" stroke-width="2" stroke-linecap="round"
+          stroke-linejoin="round"/>
+    <path d="M8 14.5L10.8092 11.7849L12.8157 13.7242L16 10.5" stroke="#6C86AD" stroke-width="2" stroke-linecap="round"
+          stroke-linejoin="round"/>
+</svg>
